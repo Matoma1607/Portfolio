@@ -1,0 +1,7 @@
+{
+  "name": "Matias — Portfolio Web",
+  "description": "Portafolio profesional de desarrollo web, sistemas y aplicaciones interactivas de Matias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
